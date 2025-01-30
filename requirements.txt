@@ -1,0 +1,2 @@
+%pip install etta
+%pip install astroquery
