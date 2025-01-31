@@ -1,0 +1,77 @@
+TIC ID,TIC,TOI,Telescope,Camera,Filter,Pixel Scale,PSF,Phot Aperture Rad,Obs Date,Obs Duration,Num Obs,Obs Type,Transit Coverage,Delta Mag,User,Group,Tag,Notes
+254113311,,TOI 1130.02,PEST (0.305 m),ST-8XME,Rc,1.23,4.48,7.0,2020-03-30,230.0,184,Continuous,Full,8.3,tan,tfopwg,18493,
+254113311,,TOI 1130.02,LCO-SSO-1.0m (1.0 m),"Sinistro, 1.0m",zs,0.389,1.8,9.0,2020-03-30,177.0,167,Continuous,Full,9.8,stockdale,tfopwg,18598,
+254113311,,TOI 1130.02,LCO-SSO (1.0 m),Sinistro,zs,0.39,2.44,13.0,2020-05-14,205.0,192,Continuous,Full,7.36,schwarz,tfopwg,19121,
+254113311,,TOI 1130.02,LCO-SSO-1m0 (1.0 m),SINISTRO,zs,0.389,2.1,6.0,2020-05-14,249.0,235,Continuous,Full,7.3,conti,tfopwg,19188,
+254113311,,TOI 1130.02,LCO-SAAO-1m0 (1.0 m),SINISTRO,zs,0.389,1.81,15.0,2020-06-07,272.0,260,Continuous,Full,,collins,tfopwg,19442,nominal .02 with overlapping .01
+254113311,,TOI 1130.01,LCO-SAAO-1m0 (1.0 m),SINISTRO,zs,0.389,2.24,15.0,2020-06-07,234.0,225,Continuous,Full,,collins,tfopwg,19441,late ephem for .02 with overlapping full .01
+254113311,,TOI 1130.02,PEST (0.305 m),ST-8XME,Rc,1.23,5.09,8.0,2020-05-22,428.0,338,Continuous,Full,8.0,tan,tfopwg,19261,
+254113311,,TOI 1130.02,LCO-SAAO (1.0 m),Sinistro,zs,0.39,1.84,10.0,2020-05-30,275.0,262,Continuous,Full,,schwarz,tfopwg,19319,
+254113311,,TOI 1130.02,LCO-SSO-1m0 (1.0 m),SINISTRO,zs,0.389,1.8,15.0,2020-05-30,271.0,261,Continuous,Full,,collins,tfopwg,19429,Alternate Reduction of tag 19319 with 15px aperture
+254113311,,TOI 1130.02,LCO-SAAO-1m0 (1.0 m),SINISTRO,zs,0.389,1.97,15.0,2020-06-07,183.0,175,Continuous,Egress,,collins,tfopwg,19442,3 hour early ephem for .02
+254113311,,TOI 1130.01,LCO-SSO-1m0 (1.0 m),SINISTRO,B+zs,0.389,1.92,15.0,2020-05-05,232.0,90,Continuous,Full,4.2,stockdale,tfopwg,19914,
+254113311,,TOI 1130.02,LCO-SAAO-1m0 (1.0 m),SINISTRO,zs,0.389,1.49,15.0,2020-06-04,271.0,137,Continuous,Full,,collins,tfopwg,19435,Alternate Reduction of tag 19425 with 15px aperture
+254113311,,TOI 1130.02,LCO-SAAO (1.0 m),Sinistro,zs,0.39,1.51,1.9,2020-06-03,275.0,246,Continuous,Full,,schwarz,tfopwg,19425,
+254113311,,TOI 1130.01,LCO-SAAO-1m0 (1.0 m),SINISTRO,B,0.389,2.63,13.0,2020-07-19,227.0,88,Continuous,Full,,gan,tfopwg,28680,
+254113311,,TOI 1130.01,LCO-SSO (1.0 m),Sinistro,zs,0.39,2.14,11.0,2020-08-05,237.0,228,Continuous,Full,,schwarz,tfopwg,29207,
+254113311,,TOI 1130.01,PEST (0.305 m),ST-8XME,Rc,1.23,4.64,6.0,2020-08-05,583.0,431,Continuous,Full,7.2,tan,tfopwg,29208,
+254113311,,TOI 1130.01,CDK14 (0.36 m),STT-1603,Rc,1.47,3.61,4.0,2020-08-22,475.0,891,Continuous,Full,5.2,pevans,tfopwg,33584,
+254113311,,TOI 1130.01,LCO-SAAO-1m0 (1.0 m),SINISTRO,zs,0.389,2.2,13.0,2020-07-19,235.0,89,Continuous,Full,,gan,tfopwg,28680,
+254113311,,TOI 1130.01,ASTEP (0.4 m),FLI Proline 16800E 4Kx4K,Rc,0.93,7.1,,2020-08-05,535.0,497,Continuous,Full,,mekarnia,tfopwg,29262,
+254113311,,TOI 1130.01,PEST (0.305 m),ST-8XME,Rc,1.23,4.6,6.0,2020-08-30,459.0,356,Continuous,Full,7.9,tan,tfopwg,33677,
+254113311,,TOI 1130.02,LCO-CTIO (1.0 m),SINISTRO,B,0.389,2.0,15.0,2019-10-12,172.0,141,Continuous,Full,,collins,tfopwg,6038,
+254113311,,TOI 1130.02,LCO-CTIO-1m0 (1.0 m),SINISTRO,zs,0.389,2.4,15.0,2019-10-15,158.0,204,Continuous,Out of Transit,,collins,tfopwg,6384,
+254113311,,TOI 1130.02,LCO-CTIO-1m0 (1.0 m),SINISTRO,B,0.389,2.0,15.0,2019-10-15,137.0,101,Continuous,Out of Transit,,collins,tfopwg,6384,
+254113311,,TOI 1130.02,LCO-CTIO (1.0 m),SINISTRO,zs,0.389,2.0,15.0,2019-10-12,184.0,242,Continuous,Full,,collins,tfopwg,6038,
+254113311,,TOI 1130.02,LCO-SSO (1 m),Sinistro,zs,0.389,1.53,15.0,2019-09-05,237.0,302,Continuous,Full,7.218,kcollins,tfopwg,5734,
+254113311,,TOI 1130.01,PEST (0.3 m),ST-8XME,Rc,1.23,3.9,6.0,2019-10-01,238.0,164,Continuous,Full,7.9,tan,tfopwg,5903,
+254113311,,TOI 1130.02,LCO-SAAO (1.0 m),Sinistro,ip,0.39,4.19,14.0,2021-06-10,254.0,337,Continuous,Full,,schwarz,tfopwg,97594,
+254113311,,TOI 1130.02,LCO-CTIO-1m0 (1.0 m),SINISTRO,ip,0.389,3.29,15.0,2021-06-19,251.0,333,Continuous,Full,,collins,tfopwg,97963,Alternate reduction for tag 97874
+254113311,,TOI 1130.01,LCO-CTIO (1.0 m),Sinistro,ip,0.39,2.11,13.0,2021-06-27,248.0,330,Continuous,Full,,schwarz,tfopwg,97967,
+254113311,,TOI 1130.02,LCO-CTIO-1m0 (1.0 m),Sinistro,ip,0.389,3.94,15.0,2021-06-18,250.0,335,Continuous,Full,,barkaoui,tfopwg,97874,
+254113311,,TOI 1130.02,LCO-CTIO (1.0 m),Sinistro,ip,0.389,3.86,15.0,2021-04-25,256.9,346,Continuous,Full,,srdoc,tfopwg,96799,Please see observation notes
+254113311,,TOI 1130.02,LCO-SAAO (1.0 m),Sinistro,zs,0.39,2.01,10.0,2021-04-12,259.0,261,Continuous,Full,,schwarz,tfopwg,96267,Non-detection of .02; Early .01 egress detection
+254113311,,TOI 1130.01,LCO-SAAO-1m0 (1.0 m),Sinistro,ip,0.389,3.1,14.0,2021-08-07,242.0,328,Continuous,Full,,barkaoui,tfopwg,98852,
+254113311,,TOI 1130.02,LCO-SAAO-1m0 (1.0 m),Sinistro,ip,0.389,3.42,15.0,2021-08-02,347.0,471,Continuous,Ingress,,barkaoui,tfopwg,98692,
+254113311,,TOI 1130.02,LCO-CTIO-1m0 (1.0 m),Sinistro,ip,0.389,2.15,13.0,2021-08-10,413.0,556,Continuous,Full,,barkaoui,tfopwg,98881,
+254113311,,TOI 1130.02,LCO-CTIO-1m0 (1.0 m),Sinistro,ip,0.389,2.33,16.0,2021-06-26,376.0,498,Continuous,Full,,barkaoui,tfopwg,97973,
+254113311,,TOI 1130.01,LCO-SSO (1.0 m),Sinistro,ip,0.39,3.27,14.0,2021-07-30,245.0,323,Continuous,Full,,schwarz,tfopwg,98598,
+254113311,,TOI 1130.01,ASTEP-ANTARCTICA (0.4 m),FLI Proline 16800E 4Kx4K,Rc,0.93,4.92,10.0,2021-08-24,424.0,148,Continuous,Full,,suarez,tfopwg,99828,
+254113311,,TOI 1130.02,LCO-CTIO-1m0 (1.0 m),Sinistro,ip,0.389,4.11,20.0,2021-08-06,318.0,423,Continuous,Full,,barkaoui,tfopwg,98844,
+254113311,,TOI 1130.01,C11 Edge HD (0.28 m),Atik 460EX,R,1.01,2.91,6.0,2021-09-01,191.0,603,Continuous,Full,,kulh,tfopwg,107605,
+254113311,,TOI 1130.02,LCO-SSO (1 m),SINISTRO,ip,0.389,,11.0,2021-08-31,147.0,495,Continuous,Egress,,zambelli,tfopwg,437156,
+254113311,,TOI 1130.01,ASTEP-ANTARCTICA (0.4 m),FLI KL400,B-ASTEP+: 555 (146) nm,1.13,6.38,7.0,2024-06-24,388.0,370,Continuous,Full,,suarez,tfopwg,441890,
+254113311,,TOI 1130.01,LCO-SAAO-0m35 (0.35 m),QHY600,ip,0.73,2.26,9.0,2024-06-24,233.0,242,Continuous,Full,,schwarz,tfopwg,441306,
+254113311,,TOI 1130.02,LCO-SAAO-1m0 (1.0 m),SINISTRO,ip,0.389,3.22,15.0,2024-04-19,283.0,324,Continuous,Full,,schwarz,tfopwg,439961,
+254113311,,TOI 1130.01,LCO-CTIO-0m35 (0.35 m),QHY600,ip,0.73,2.07,8.0,2024-08-13,233.0,226,Continuous,Full,,schwarz,tfopwg,442218,
+254113311,,TOI 1130.01,Brierfield036m (0.36 m),Moravian 16803,Rc,0.735,2.69,9.0,2024-08-22,249.0,162,Continuous,Full,4.8,radford,tfopwg,442412,
+254113311,,TOI 1130.01,ASTEP-ANTARCTICA (0.4 m),ANDOR iKon-L 936,R-ASTEP+: 850 (138) nm,1.39,6.17,7.0,2024-06-24,351.0,1521,Continuous,Full,,suarez,tfopwg,441890,
+254113311,,TOI 1130.02,LCO-CTIO-1m0 (1.0 m),SINISTRO,ip,0.389,2.81,15.0,2024-05-02,315.0,322,Continuous,Full,,schwarz,tfopwg,440374,
+254113311,,TOI 1130.02,LCO-CTIO-1m0 (1.0 m),SINISTRO,ip,0.389,3.01,15.0,2024-04-28,298.0,250,Continuous,Full,,schwarz,tfopwg,440269,
+254113311,,TOI 1130.01,LCO-CTIO-1m0 (1.0 m),SINISTRO,ip,0.389,3.11,15.0,2024-06-08,235.0,228,Continuous,Full,,schwarz,tfopwg,441178,
+254113311,,TOI 1130.02,LCO-CTIO-1m0 (1.0 m),SINISTRO,ip,0.389,3.62,16.0,2024-06-16,394.0,507,Continuous,Full,,schwarz,tfopwg,441233,
+254113311,,TOI 1130.02,LCO-CTIO-1m0 (1.0 m),SINISTRO,ip,0.389,3.48,16.0,2024-06-20,348.0,466,Continuous,Full,,schwarz,tfopwg,441281,
+254113311,,TOI 1130.02,LCO-SAAO-1m0 (1.0 m),SINISTRO,ip,0.389,3.99,21.0,2024-09-01,369.0,481,Continuous,Full,,schwarz,tfopwg,442568,
+254113311,,TOI 1130.02,LCO-CTIO-1m0 (1.0 m),SINISTRO,ip,0.389,4.87,18.0,2024-09-13,317.0,417,Continuous,Full,,schwarz,tfopwg,443017,
+254113311,,TOI 1130.02,LCO-SSO-1m0 (1.0 m),SINISTRO,ip,0.389,3.36,17.0,2024-07-10,378.0,458,Continuous,Full,,schwarz,tfopwg,441605,
+254113311,,TOI 1130.02,CDK20 (0.51 m),Moravian C3-26000,Rc,0.449,2.0,10.0,2024-08-14,342.0,440,Continuous,Full,,pevans,tfopwg,442223,
+254113311,,TOI 1130.02,LCO-SAAO (1.0 m),Sinistro,ip,0.389,4.82,17.0,2023-06-06,399.0,529,Continuous,Full,,relles,tfopwg,429211,
+254113311,,TOI 1130.01,LCO-CTIO (1.0 m),Sinistro,ip,0.389,2.03,12.0,2023-05-21,202.0,268,Continuous,Egress,,relles,tfopwg,428875,
+254113311,,TOI 1130,LCO-SSO-1m0 (1.0 m),SINISTRO,ip,0.389,2.6,15.0,2021-05-29,215.0,272,Continuous,Full,,schwarz,tfopwg,424251,TOI-1130.22
+254113311,,TOI 1130.01,planewave (0.36 m),Moravian,CousinsRed,0.735,2.9,9.0,2023-07-18,292.0,148,Continuous,Full,4.8,radford,tfopwg,430115,
+254113311,,TOI 1130.02,LCO-SSO (1.0 m),Sinistro,ip,0.389,4.03,14.0,2023-05-17,414.0,543,Continuous,Full,,relles,tfopwg,428772,
+254113311,,TOI 1130.01,CDK20 (0.51 m),Moravian C3-26000,Rc,0.449,2.9,13.0,2023-05-21,310.0,296,Continuous,Full,,pevans,tfopwg,428867,
+254113311,,TOI 1130.02,LCO-SAAO-1m0 (1.0 m),SINISTRO,ip,0.389,3.67,16.0,2023-06-10,335.0,448,Continuous,Full,,barkaoui,tfopwg,429363,
+254113311,,TOI 1130,MoanaES (0.6 m),Andor iKon L,r,0.7,,,2022-06-20,,,,,,leiva,,431063,Contact the WINE collaboration for more information.
+254113311,,TOI 1130,LCO-SSO-1m0 (1.0 m),SINISTRO,ip,0.389,2.58,10.0,2023-08-29,96.0,119,Continuous,Full,,schwarz,tfopwg,431371,TOI-1130.11
+254113311,,TOI 1130.01,Brierfield036m (0.36 m),Moravian 16803,R,0.735,2.55,6.8,2023-08-29,268.0,131,Continuous,Full,4.6,radford,tfopwg,431370,
+254113311,,TOI 1130,LCO-SAAO-1m0 (1.0 m),SINISTRO,ip,0.389,2.34,14.0,2023-09-06,199.0,241,Continuous,Full,,schwarz,tfopwg,431527,TOI-1130.11
+254113311,,TOI 1130.01,CDK20 (0.51 m),Moravian C3-26000,Rc,0.449,2.5,12.0,2023-09-15,399.0,661,Continuous,Full,,pevans,tfopwg,431654,
+254113311,,TOI 1130.01,LCO-SAAO (1.0 m),Sinistro,ip,0.389,4.24,14.0,2023-10-01,191.0,233,Continuous,Full,,relles,tfopwg,432164,
+254113311,,TOI 1130,LCO-SSO-1m0 (1.0 m),SINISTRO,ip,0.389,1.71,12.0,2023-10-15,178.0,196,Continuous,Full,,schwarz,tfopwg,433104,TOI-1130.22
+254113311,,TOI 1130.02,CDK20 (0.51 m),Moravian C3-26000,Rc,0.449,1.9,10.0,2023-10-10,295.0,380,Continuous,Full,,pevans,tfopwg,432682,Concurrent with .01 plaanet
+254113311,,TOI 1130.01,CDK20 (0.51 m),Moravian C3-26000,Rc,0.449,1.9,10.0,2023-10-11,295.0,380,On-off,Ingress,,pevans,tfopwg,432703,concurrent with .11 transit
+254113311,,TOI 1130.01,Hwd (0.32 m),STT3200,Rc,0.556,3.42,13.0,2023-10-18,197.0,133,Continuous,Full,5.0,stockdale,tfopwg,433095,
+254113311,,TOI 1130.01,TRAPPIST-South (0.6 m),FLI ProLine PL3041-BB,zp,0.64,2.5,7.0,2023-10-09,243.0,635,Continuous,Full,,barkaoui,tfopwg,433655,
+254113311,,TOI 1130.02,ASTEP-ANTARCTICA (0.4 m),FLI KL400,B-ASTEP+: 555 (146) nm,1.13,5.6,6.0,2024-08-24,387.0,361,Continuous,Full,,suarez,tfopwg,443973,
+254113311,,TOI 1130.02,ASTEP-ANTARCTICA (0.4 m),ANDOR iKon-L 936,R-ASTEP+: 850 (138) nm,1.39,5.74,8.0,2024-08-24,388.0,1947,Continuous,Full,,suarez,tfopwg,443973,

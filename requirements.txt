@@ -1,2 +1,3 @@
 %pip install etta
 %pip install astroquery
+%pip install exofop
